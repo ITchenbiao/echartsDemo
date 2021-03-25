@@ -1,2 +1,2 @@
 # echartsDemo
-echarts learning
+bauidu echarts learning
